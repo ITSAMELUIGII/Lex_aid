@@ -1,0 +1,21 @@
+# Environments
+backend/venv/
+backend/env/
+.env
+
+# ChromaDB and Vectors
+backend/chroma_db/
+backend/bm25_index.pkl
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated Output
+backend/Notice_*.pdf
+backend/generated_pdfs/
+
+# OS Files
+.DS_Store
+Thumbs.db

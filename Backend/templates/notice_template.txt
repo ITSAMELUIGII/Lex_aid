@@ -1,0 +1,28 @@
+LEGAL NOTICE / FORMAL GRIEVANCE
+================================
+
+DATE: {{ date }}
+
+TO (RESPONDENT):
+{{ respondent_name }}
+{{ respondent_address }}
+
+FROM (PETITIONER):
+{{ petitioner_name }}
+{{ petitioner_address }}
+
+SUBJECT: FORMAL NOTICE REGARDING {{ issue_summary }}
+
+Dear {{ respondent_name }},
+
+Under the provisions of {{ statute }} (Specifically, {{ provision }}), you are hereby notified of the following grievance:
+
+{{ plain_language_explanation }}
+
+DEMAND FOR RESOLUTION:
+We demand the immediate resolution of this matter. The monetary amount in dispute is {{ money_involved }}. 
+If this matter is not resolved within 14 days of receipt of this notice, further legal action may be pursued through the appropriate legal channels, including but not limited to the {{ court }}.
+
+Sincerely,
+
+{{ petitioner_name }}
